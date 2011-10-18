@@ -1,0 +1,8 @@
+*.suo
+*.config
+*.sln
+UpgradeLog.XML
+bin
+Backup
+obj
+_UpgradeReport_Files
