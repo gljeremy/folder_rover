@@ -48,7 +48,7 @@ namespace FolderRover
           return;
         }
 
-        _exceptionFs = new FileStream(Path.Combine(args[1], "FileInventory_Exceptions.txt"), FileMode.Create, FileAccess.Write);
+        _exceptionFs = new FileStream(Path.Combine(args[1], "FolderRover_Exceptions.txt"), FileMode.Create, FileAccess.Write);
         _fileStream = new FileStream(Path.Combine(args[1], "FileInventory.txt"), FileMode.Create, FileAccess.Write);
         _directoryStream = new FileStream(Path.Combine(args[1], "DirInventory.txt"), FileMode.Create, FileAccess.Write);
 
