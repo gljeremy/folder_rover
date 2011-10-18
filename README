@@ -1,0 +1,1 @@
+This project is an EXPERIMENT to see if we can get a full catalog of all the files contained on a drive (for my purposes a NAS device) more quickly than the windows DIR command. Turns out, you can, so the next step will be to make it faster if time permits.
