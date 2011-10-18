@@ -6,3 +6,4 @@ bin
 Backup
 obj
 _UpgradeReport_Files
+.gitignore
